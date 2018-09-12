@@ -1,0 +1,24 @@
+[Variables]
+
+;Font Colors
+Accent=5,217,250,255
+FontColorA=0,0,0,255
+FontColorB=255,255,255,255
+
+;Font Types
+FontA=Roboto Bold
+FontB=Roboto Light
+FontC=Roboto Thin
+
+;Font Sizes
+FontSizeA=53
+FontSizeB=36
+
+;Content
+LogoText="PC"
+TextA="MASTER RACE"
+TextB="behold"
+TextC="true glory"
+
+;Shadows - Delete the Word Shadow Below for no shadows.
+Effect=Shadow
